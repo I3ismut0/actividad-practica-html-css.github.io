@@ -1,2 +1,2 @@
-# actividad-practica-html-css.github.io
+# actividad-practica-html-css
 Actividad práctica (asíncrona): Página personal con HTML y CSS
